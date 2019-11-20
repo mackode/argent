@@ -1,0 +1,15 @@
+{
+    "name": "argent",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/mackode/argent.git",
+    "author": "Bartłomiej Makowski <biuro@mackode.pl>",
+    "license": "MIT",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "ethereumjs-tx": "^2.1.1",
+        "web3": "^1.2.4"
+    }
+}
